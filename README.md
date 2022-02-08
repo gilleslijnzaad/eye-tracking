@@ -20,8 +20,8 @@ Most importantly, it contains the `send()` method that the Experiment object wil
 
 The Experiment object contains a large number of methods that can be used to start processes in the eye-tracker, e.g. `prepareTrial()` or `doDriftCorrection()`. When it is created, it calls upon the actual experiment program to start.
 
-The Demo class is meant to be a kind of pseudocode, more so than a working example. 
-It demonstrate how and where to use the methods from the Experiment object.
+The Demo class is meant to be a kind of pseudocode more so than a working example. 
+It demonstrates how and where to use the methods from the Experiment object.
 
 Python
 ----------------------------------
